@@ -1,4 +1,4 @@
-### An example code running codes on the old graphical processors
+### An example code running shaders on old graphical processors
 Using EGL and opengl v3.3 on linux. Requires no window or display.
 #### Compile
 ```

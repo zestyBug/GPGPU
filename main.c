@@ -60,7 +60,7 @@ int main(void)
     }
     eglMakeCurrent(display, surface, surface, context);
 
-    if(glwInitialize(0x402)) {
+    if(glwInitialize(0x303)) {
         fprintf(stderr, "glwInitialize failed\n");return 1;
     }
 
